@@ -1,13 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "lQpvWcfz9ro=",
+  "dgSpecHash": "tRZci5htToQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\Claudeline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atilla.alsan\\.nuget\\packages\\fastendpoints\\5.32.0\\fastendpoints.5.32.0.nupkg.sha512",
     "C:\\Users\\atilla.alsan\\.nuget\\packages\\fastendpoints.attributes\\5.32.0\\fastendpoints.attributes.5.32.0.nupkg.sha512",
     "C:\\Users\\atilla.alsan\\.nuget\\packages\\fastendpoints.messaging.core\\5.32.0\\fastendpoints.messaging.core.5.32.0.nupkg.sha512",
-    "C:\\Users\\atilla.alsan\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\atilla.alsan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
   ],
   "logs": []
 }

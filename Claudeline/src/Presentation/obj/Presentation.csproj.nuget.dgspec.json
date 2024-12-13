@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\Claudeline.csproj": {}
+    "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\src\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\Claudeline.csproj": {
+    "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\src\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\Claudeline.csproj",
-        "projectName": "Claudeline",
-        "projectPath": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\Claudeline.csproj",
+        "projectUniqueName": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\src\\Presentation\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\src\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\atilla.alsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\obj\\",
+        "outputPath": "C:\\Users\\atilla.alsan\\Dev\\claudeline\\Claudeline\\src\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,13 +50,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FastEndpoints": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[5.32.0, )"
+              "version": "[8.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
