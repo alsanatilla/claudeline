@@ -50,13 +50,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FastEndpoints": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[5.32.0, )"
+              "version": "[8.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

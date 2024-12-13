@@ -1,0 +1,6 @@
+@Claudeline_HostAddress = http://localhost:5229
+
+GET {{Claudeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
